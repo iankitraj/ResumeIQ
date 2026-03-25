@@ -69,13 +69,14 @@ Contributions are welcome!
 
 ---
 
-## 📩 Contact  
+📩 **Got suggestions or feedback?**  
+Feel free to message me via:
 
-- 📧 Email: iankitraj18@gmail.com  
-- 💬 WhatsApp: https://wa.me/919608527940  
+- 📧 **Email:** [iankitraj18@gmail.com](mailto:iankitraj18@gmail.com)  
+- 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/919608527940?text=Hi%20Ankit%2C%20I%20saw%20your%20MERN%20Chat%20App%20project%20and%20had%20some%20suggestions...)
 
 ---
 
-## ⭐ Support  
+## ⭐ Support
 
 If you like this project, don’t forget to ⭐ the repo!
