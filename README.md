@@ -2,30 +2,25 @@
 
 ### 🧠 AI-Powered Resume Analyzer & Job Recommender  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20With-MERN-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integration%20Coming-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-green?style=for-the-badge" />
-</p>
-
 ---
 
 ## ✨ Overview  
 
-ResumeIQ is an AI-based web application that analyzes resumes, calculates ATS scores, and recommends relevant jobs based on user skills.  
+ResumeIQ is a full-stack MERN application that helps users analyze resumes, improve their quality, and generate AI-powered insights.
 
-It helps users improve resume quality, understand recruiter expectations, and increase their chances of getting shortlisted.
+It is designed to enhance job readiness by providing structured feedback, authentication-based access, and intelligent recommendations.
 
 ---
 
 ## 🚀 Features  
 
-- 📂 Upload Resume (PDF/DOC)  
-- 📊 ATS Score Calculation  
-- 🧠 AI Resume Analysis *(Upcoming)*  
-- 💼 Smart Job Recommendations *(Upcoming)*  
-- 📝 Resume Improvement Suggestions  
+- 🔐 User Authentication (JWT + Cookies)
+- 🔒 Protected Routes (Frontend & Backend)
+- 📂 Resume Upload (PDF/DOC) *(In Progress)* 
+- 📊 ATS Score Calculation (Planned) 
+- 🧠 AI-Powered Interview/Report Generation
+- 📝 Resume Improvement Suggestions
+- 🎨 SCSS-based UI (React + Vite)
 
 ---
 
@@ -35,10 +30,12 @@ It helps users improve resume quality, understand recruiter expectations, and in
 
 | Category  | Technology |
 |----------|-----------|
-| Frontend | React.js |
+| Frontend | React.js, Vite, SCSS |
 | Backend  | Node.js, Express.js |
 | Database | MongoDB |
-| AI Layer | Coming Soon |
+| Authentication | JWT, Cookies |
+| Validation | Zod | 
+| AI Layer | Google GenAI |
 
 </div>
 
@@ -66,6 +63,12 @@ Contributions are welcome!
 ## 🚧 Project Status  
 
 ⚠️ This project is currently under development  
+
+# Upcoming features:
+
+- Resume parsing & ATS scoring
+- Job recommendation engine
+- Advanced AI analysis dashboard
 
 ---
 
